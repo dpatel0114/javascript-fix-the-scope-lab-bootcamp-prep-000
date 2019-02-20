@@ -20,8 +20,8 @@ var funkyFunction = function() {
 }
 
 
-var theFunk = function()
-function funkyFunction(){
-   return "Funky!"
-  }
-
+var theFunk = function() {
+function()= funkyFunction{
+  return the funk
+}
+}
