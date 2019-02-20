@@ -3,8 +3,8 @@ var animal = 'dog'
 function myAnimal() {
   return animal
 }
-
-function yourAnimal(cat) {
+var animal = 'Cat'
+function yourAnimal() {
   return animal
 }
 
