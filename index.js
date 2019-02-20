@@ -3,7 +3,7 @@ var animal = 'dog'
 function myAnimal() {
   return animal
 }
-var animal = 'Cat'
+var animal = 'cat'
 function yourAnimal() {
   return animal
 }
